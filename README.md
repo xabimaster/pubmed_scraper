@@ -14,6 +14,12 @@ Aquesta pràctica ha estat realitzada de manera conjunta per **Xabier Urra Nuin*
 * **pubmed_scraper/LICENSE**: explica el tipus de llicència..
 * **pubmed_scraper/Respostes**: contéles respostes a les preguntes de la Pràctica 1.
 
+## Vídeo explicatiu
+
+El vídeo explicatiu de l'eina es pot trobar en el següent enllaç: 
+
+https://1drv.ms/v/s!Alz4I18dl3WTmJYzQihf19BXQIiodw?e=J0R2IF
+
 ## Recursos
 
 - Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
